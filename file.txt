@@ -1,7 +1,19 @@
+<<<<<<< HEAD
 asl;dfjk
 asdjlfk
 slkdfj
 asdlkfj
 sdfa
 hi darling how are am fine what about you where are you 
+=======
+asldkfj
+sdlkfja
+lkasdjf
+sdfkl
+asdfja
+sdf
+j;adsfa
+sdfasl;dfjk
+	hi darling how are am fine what about you where are you 
+>>>>>>> prasad
 
