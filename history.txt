@@ -1,0 +1,500 @@
+  272  git add
+  273  git status
+  274  git add index.jsp 
+  275  git status
+  276  git push
+  277  git commit -m "hi"
+  278  git puysh
+  279  git push
+  280  git push prasad
+  281  git push
+  282  git push origin prasad
+  283  ls
+  284  git checkout master
+  285  git branch
+  286  git push -u origin prasd
+  287  git push -u origin prasad
+  288  ls
+  289  ls
+  290  ls
+  291  git branch
+  292  git pull origin master
+  293  git branch merged
+  294  git merge prasad
+  295  git push origin master
+  296  git branch
+  297  git branch --merged
+  298  git merge prasad
+  299  ls
+  300  git branch --merged
+  301  git branch -d merged
+  302  git branch -a
+  303  git push origin --delete merged
+  304  ls
+  305  git branch
+  306  git prasad
+  307  ls
+  308  git branch
+  309  git pull origin master
+  310  git branch --merged
+  311  git merge prasad
+  312  git branch
+  313  git ls
+  314  git branch
+  315  git branch --merged
+  316  git branch -d prasad 
+  317  git branch -a
+  318  git push origin --delete prasad
+  319  git branch
+  320  git branch
+  321  git status
+  322  ls
+  323  clear
+  324  ls
+  325  clear
+  326  cd 
+  327  pwd
+  328  cd ..
+  329  ls
+  330  cd Prasad/
+  331  ls
+  332  cd Desktop/
+  333  ls
+  334  mkdir king
+  335  cd king/
+  336  ls
+  337  git clone
+  338  git clone https://github.com/PRASADKUMARRAJU/prasad.git
+  339  ls
+  340  ls
+  341  ls
+  342  cd prasad/
+  343  ls
+  344  ls
+  345  ls
+  346  ls
+  347  cd ..
+  348  cd prasad/
+  349  ls
+  350  clear
+  351  vi file.txt
+  352  ls
+  353  git add 
+  354  git add .
+  355  git status
+  356  git log
+  357  git commit -m "my first project"
+  358  git status
+  359  ls
+  360  git log
+  361  ls
+  362  git push origin master
+  363  git pull origin master
+  364  ls
+  365  ls
+  366  git pull origin 
+  367  ls
+  368  ls
+  369  git push origin master
+  370  git push origin master
+  371  ls
+  372  git log
+  373  git status
+  374  git stash
+  375  ls
+  376  vi file.txt 
+  377  git status
+  378  git stash file.txt
+  379  git stash list
+  380  git stash ls
+  381  git stash list file.txt
+  382  ls
+  383  git stash file.txt
+  384  ls
+  385  git stash
+  386  vi file.txt 
+  387  git diff
+  388  git stash save "work in progress"
+  389  git diff
+  390  git status
+  391  git stash
+  392  ls
+  393  git add 
+  394  git add .
+  395  ls
+  396  git status
+  397  ls
+  398  clear
+  399  git diff
+  400  git stash list
+  401  history
+  402  clear
+  403  git stash list
+  404  git stash apply stash@{0}
+  405  git status
+  406  git stash save file.txt
+  407  git status
+  408  git diff
+  409  git list
+  410  git log
+  411  git stash list
+  412  git stash apply stash@{0}
+  413  git staus
+  414  git status
+  415  git add file.txt 
+  416  git status
+  417  git commit -m "kk"
+  418  git status
+  419  git push origin master
+  420  git stash list
+  421  git checkout .
+  422  ls
+  423  git stash pop
+  424  git stash pot
+  425  git stash pop
+  426  git stash list
+  427  vi file.txt 
+  428  git stash save "king"
+  429  git stash list
+  430  git diff
+  431  git stash pop
+  432  git stash list
+  433  git stash pop
+  434  git stash apply stash@{0}
+  435  git stash list
+  436  git diff
+  437  ls
+  438  rm dlkfjalas 
+  439  ls
+  440  ls
+  441  git stash 
+  442  git stash list
+  443  git diff
+  444  git stash apply 
+  445  git diff
+  446  clear
+  447  git bransh prasadk
+  448  git branch prasadk
+  449  git checkout prasadk
+  450  git checkout
+  451  git branch
+  452  git branch 
+  453  git push -u origin master
+  454  git branch king
+  455  git branch
+  456  git checkout king ng
+  457  git checkout king 
+  458  git branch
+  459  git push -U origin king
+  460  git push -U origin master
+  461  git push -u origin king
+  462  ls
+  463  clear
+  464  git branch
+  465  ls
+  466  ls
+  467  ls
+  468  ls
+  469  ls
+  470  vi jl.txt
+  471  git diff
+  472  clear
+  473  git status
+  474  git add jl.txt 
+  475  git status
+  476  git commit -m "ll" jl.txt 
+  477  git status
+  478  ls
+  479  clear
+  480  git push king
+  481  git push origin king
+  482  git push origin master
+  483  git branch
+  484  git push 
+  485  clear
+  486  clear
+  487  git merged king
+  488  git merge king
+  489  ls
+  490  clear
+  491  git checkout master
+  492  git bran ch
+  493  git branch
+  494  clear
+  495  git push origin master
+  496  git pull origin master
+  497  git merge king
+  498  git king -merged
+  499  git king -merge
+  500  git branch
+  501  ls
+  502  cd Desktop/
+  503  ls
+  504  cd king/
+  505  ls
+  506  ls
+  507  ls
+  508  cd prasad/
+  509  ls
+  510  git pull origin master
+  511  ls
+  512  ls
+  513  git status
+  514  git log
+  515  git diff
+  516  clear
+  517  git add 
+  518  git add .
+  519  git status
+  520  git remove
+  521  ls
+  522  git status
+  523  git commit -m "ll"
+  524  git status
+  525  git push origin master
+  526  git branch
+  527  git branch
+  528  git branch -d king
+  529  git push delete king
+  530  git push origin king -delete
+  531  git push origin king --delete
+  532  git branch
+  533  git prasadk -d 
+  534  git branch -d prasadk
+  535  git push origin prasadk --delete
+  536  claer
+  537  clear
+  538  git branch
+  539  git branch prasad
+  540  git checkout 
+  541  git checkout prasad
+  542  ls
+  543  git branch
+  544  git push -u origin prasad
+  545  ls
+  546  vi file.txt 
+  547  ls
+  548  git status
+  549  ls
+  550  clear
+  551  ls
+  552  git difff
+  553  git diff
+  554  cleR
+  555  clear
+  556  git staus
+  557  git status
+  558  clear
+  559  git back file.txt
+  560  git repack file.txt
+  561  ls
+  562  clear
+  563  git status
+  564  git status
+  565  ls
+  566  clear
+  567  git repack help
+  568  git repack list
+  569  ls
+  570  clear
+  571  git add file.txt 
+  572  git status
+  573  git repack file.txt
+  574  git status
+  575  git status
+  576  git repack
+  577  git repack file.txt
+  578  clear
+  579  ls
+  580  clear
+  581  git status
+  582  git commit -m "jlk"
+  583  git status
+  584  git push origin 
+  585  clear
+  586  git rebase 
+  587  git checkout master
+  588  git branch
+  589  git rebase prasad
+  590  git branch
+  591  clear
+  592  git rebase help
+  593  git rebase prasad 
+  594  git branch
+  595  git rebase origin prasad
+  596  git push origin
+  597  ls
+  598  git config
+  599  git config
+  600  clear
+  601  git init
+  602  git init
+  603  git init
+  604  clear
+  605  git status
+  606  vi file.txt 
+  607  git status
+  608  git add .
+  609  git status
+  610  git reset file.txt
+  611  git status
+  612  clear
+  613  git remote -v
+  614  git remote -v
+  615  clear
+  616  git branch -a
+  617  git remote -v
+  618  git branch -s
+  619  clear
+  620  git branch -a
+  621  git rebase --continue
+  622  git rebase --skip
+  623  git status
+  624  git stash save file.txt
+  625  git status
+  626  git stash list
+  627  git stash apply file.txt
+  628  git stash apply stash@{0}
+  629  git status
+  630  git stash pop
+  631  git stash list
+  632  git stash list
+  633  git stash pop
+  634  git stash list
+  635  git stash pot stash@{0}:
+  636  git stash pop stash@{0}
+  637  git status
+  638  git stash list
+  639  git stash show
+  640  git stash pop
+  641  git stash clear
+  642  git stash list
+  643  ls
+  644  clea
+  645  clear
+  646  git stash save file.txt
+  647  git stash list
+  648  git stash show
+  649  git stash clear
+  650  git stash list
+  651  git stash show
+  652  clear
+  653  ls
+  654  git branch -a
+  655  git rebase master
+  656  git rebase master prasad
+  657  git branch 
+  658  git checkout master
+  659  git rebase master prasadf
+  660  git rebase master prasad
+  661  ls
+  662  clear
+  663  git status
+  664  git stash list
+  665  vi file.txt 
+  666  git diff
+  667  clear
+  668  git add .
+  669  git status
+  670  git reset file.txt
+  671  ls
+  672  git status
+  673  git add .
+  674  git statu
+  675  git status
+  676  git commit -m "faaaaaa"
+  677  git status
+  678  git reset file.txt
+  679  git status
+  680  git push origin
+  681  clear
+  682  git checkout master
+  683  git branch -a
+  684  git remote -v
+  685  clear
+  686  git push origin master
+  687  git pull origin master
+  688  git branch --merge
+  689  git branch
+  690  git merge branch
+  691  git merge prasad
+  692  git branch
+  693  git push origin master
+  694  git branch
+  695  git branch --merged
+  696  git merge prasad
+  697  git push origin master
+  698  ls
+  699  git branch
+  700  vi file.txt 
+  701  git add .
+  702  git commit -m "king"
+  703  git push origin master
+  704  clear
+  705  git status
+  706  git branch
+  707  git checkout prasad
+  708  git branch -a
+  709  clear
+  710  vi file.txt 
+  711  git status
+  712  git add .
+  713  git commit -m "llllllllllllllllllllllllllll"
+  714  git push origin
+  715  git checkout master
+  716  git branch -a
+  717  git clear
+  718  clear
+  719  git push origin master
+  720  git pull origin master
+  721  git branch --merged
+  722  git merge prasad
+  723  git branch merge
+  724  git merge prasad
+  725  git pull origin master
+  726  git push origin master
+  727  git branch -a
+  728  git branch --merge
+  729  git merge prasad
+  730  git branch --merged
+  731  git merge prasad
+  732  clear
+  733  git checkout master
+  734  git pull origin master
+  735  git checkout prasad
+  736  git remote -v
+  737  clear
+  738  git branch -d merge
+  739  git branch -a
+  740  git branch --merged
+  741  git merge prasad
+  742  git add .
+  743  git commit -m "jkjkjkjkjkj"
+  744  git push origin master
+  745  git branch --merged
+  746  gir merge prasad
+  747  git merge prasad
+  748  git push origin master
+  749  clear
+  750  git init
+  751  clear
+  752  git stash list
+  753  git stash show
+  754  git stash save file.txt
+  755  git stash list
+  756  git stash apply
+  757  git stash pop
+  758  git stash clear
+  759  clear
+  760  history
+  761  history > fiel1.txt
+  762  ls
+  763  cat fiel1.txt 
+  764  cldar
+  765  clear
+  766  clear
+  767  ls
+  768  rm fiel1.txt 
+  769  ls
+  770  clear
+  771  history > history.txt
